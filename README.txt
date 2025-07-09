@@ -1,0 +1,1 @@
+Kør 'setup_fragzone' kommandoen i din Discord-server efter deploy på Railway.
