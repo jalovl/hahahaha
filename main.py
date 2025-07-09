@@ -13,6 +13,10 @@ async def on_ready():
     print(f"{bot.user} er online.")
 
 @bot.command()
+async def ping(ctx):
+    await ctx.send("Pong!")
+
+@bot.command()
 async def setup_fragzone(ctx):
     guild = ctx.guild
     await ctx.send("⚙️ Dansk FragZone bliver sat op...")

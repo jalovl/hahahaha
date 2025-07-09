@@ -1,1 +1,1 @@
-Kør 'setup_fragzone' kommandoen i din Discord-server efter deploy på Railway.
+Skriv !setup_fragzone i Discord for at oprette hele serveren automatisk.
